@@ -1,0 +1,130 @@
+{
+  "users": [
+    {
+      "FirstName": "User",
+      "LastName": "User",
+      "username": "User",
+      "email": "user@gmail.com",
+      "Password": "lozinka",
+      "status": "Unavailable",
+      "id": 5
+    },
+    {
+      "FirstName": "Korisnik",
+      "LastName": "Korisnik",
+      "username": "Korisnik",
+      "email": "korisnik@gmail.com",
+      "Password": "lozinka",
+      "status": "Available",
+      "id": 6
+    },
+    {
+      "FirstName": "User",
+      "LastName": "User",
+      "username": "User",
+      "email": "user@gmail.com",
+      "Password": "lozinka",
+      "status": "Unavailable",
+      "id": 7
+    },
+    {
+      "FirstName": "Korisnik",
+      "LastName": "Korisnik",
+      "username": "Korisnik",
+      "email": "korisnik@gmail.com",
+      "Password": "lozinka",
+      "status": "Available",
+      "id": 8
+    },
+    {
+      "FirstName": "User",
+      "LastName": "User",
+      "username": "User",
+      "email": "user@gmail.com",
+      "Password": "lozinka",
+      "status": "Unavailable",
+      "id": 9
+    },
+    {
+      "FirstName": "Korisnik",
+      "LastName": "Korisnik",
+      "username": "Korisnik",
+      "email": "korisnik@gmail.com",
+      "Password": "lozinka",
+      "status": "Available",
+      "id": 10
+    },
+    {
+      "FirstName": "User",
+      "LastName": "User",
+      "username": "User",
+      "email": "user@gmail.com",
+      "Password": "lozinka",
+      "status": "Unavailable",
+      "id": 11
+    },
+    {
+      "FirstName": "osmi",
+      "LastName": "osmi",
+      "username": "osmi",
+      "email": "osmi@gmail.com",
+      "Password": "lozinka",
+      "status": "Available",
+      "id": 12
+    },
+    {
+      "FirstName": "deveti",
+      "LastName": "deveti",
+      "username": "deveti",
+      "email": "deveti@gmail.com",
+      "Password": "lozinka",
+      "status": "Available",
+      "id": 13
+    },
+    {
+      "FirstName": "deseti",
+      "LastName": "deseti",
+      "username": "deseti",
+      "email": "deseti@gmail.com",
+      "Password": "lozinka",
+      "status": "Unavailable",
+      "id": 14
+    },
+    {
+      "FirstName": "jedanaesti",
+      "LastName": "jedanaesti",
+      "username": "jedanaesti",
+      "email": "jedanaesti@gmail.com",
+      "Password": "lozinka",
+      "status": "Available",
+      "id": 15
+    },
+    {
+      "FirstName": "dvanaesti",
+      "LastName": "dvanaesti",
+      "username": "dvanaesti",
+      "email": "dvanaesti@gmail.com",
+      "Password": "dvanaesti",
+      "status": "Available",
+      "id": 16
+    },
+    {
+      "FirstName": "trinaesti",
+      "LastName": "trinaesti",
+      "username": "trinaesti",
+      "email": "cetrnaesti",
+      "Password": "lozinka",
+      "status": "Available",
+      "id": 17
+    },
+    {
+      "FirstName": "aaaaa",
+      "LastName": "aaaaa",
+      "username": "adddd",
+      "email": "a",
+      "Password": "a",
+      "status": "Ava",
+      "id": 18
+    }
+  ]
+}
